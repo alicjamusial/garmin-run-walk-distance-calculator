@@ -4,7 +4,7 @@
 
 The script calculates the running and walking distances during a running activity recorded with a Garmin device (e.g. Forerunner 255s).
 
-It was born out of the frustration with the Garmin Connect app — which shows only the time spent on runnning/walking/standing, without telling you how far you actually ran and walked. Mostly useful for mountain/trail running probably.
+It was born out of the frustration with the Garmin Connect app, which shows only the time spent on running/walking/standing, without telling you how far you actually ran and walked. Mostly useful for mountain/trail running probably.
 
 ## Requirements
 - python >= 3.12
